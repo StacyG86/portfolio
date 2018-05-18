@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.rometheme.net/doc/jonk" resolutions="1x" timestamp="1486287000188">
+  <folder name="css">
+    <file name="site_global.css" crc="3933573978"/>
+    <file name="master_a-master.css" crc="156192025" ref="index"/>
+    <file name="index.css" crc="225589750" ref="index"/>
+    <file name="iefonts_index.css" crc="135715506" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="222444626"/>
+    <file name="fontawesome-webfont.eot" crc="3863299673"/>
+    <file name="fontawesome-webfont.svg" crc="332874908"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-bg.png" crc="321327276" ref="index"/>
+    <file name="step-download.jpg" crc="110297200" ref="index"/>
+    <file name="step-unzip.jpg" crc="397071643" ref="index"/>
+    <file name="change-title-menu_1a.jpg" crc="172013259" ref="index"/>
+    <file name="change-logo.jpg" crc="460352840" ref="index"/>
+    <file name="change-icon.jpg" crc="3909521730" ref="index"/>
+    <file name="import-image-slider-bg.jpg" crc="4128911926" ref="index"/>
+    <file name="add-image-on-slideshow.jpg" crc="3943691178" ref="index"/>
+    <file name="change-color-theme.jpg" crc="3821486506" ref="index"/>
+    <file name="import-relink.jpg" crc="4017139493" ref="index"/>
+    <file name="addmoreportfolio.jpg" crc="4163917877" ref="index"/>
+    <file name="add-image-manual.jpg" crc="520766948" ref="index"/>
+    <file name="duplicate-page.jpg" crc="171934555" ref="index"/>
+    <file name="contactform.jpg" crc="3803029771" ref="index"/>
+    <file name="addfavicon.jpg" crc="4275850492" ref="index"/>
+    <file name="css-animation.jpg" crc="457621844" ref="index"/>
+    <file name="css-animation-remove.jpg" crc="493176994" ref="index"/>
+    <file name="css-animation-style.jpg" crc="4153098961" ref="index"/>
+    <file name="rate-item.jpg" crc="4011832068" ref="index"/>
+  </folder>
+  <file name="index.html" crc="118460401" seo="true" mt="1486286945377" redirect="true"/>
+</manifest>
